@@ -1,0 +1,6 @@
+---
+description: Shared project rules for every AI agent
+alwaysApply: true
+---
+
+Read and follow `AGENTS.md` in the repository root. It is the single source of rules for every AI agent in this repo. Do not duplicate rules here.
